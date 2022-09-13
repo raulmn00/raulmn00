@@ -17,7 +17,7 @@
 
 <h3 align="left">Vamos nos conectar:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raul-mariaci-neto-8b4284234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-mariaci-neto-8b4284234" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raul-mariaci-neto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-mariaci-neto-8b4284234" height="30" width="40" /></a>
 <a href="https://discord.gg/#7244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luaR#7244" height="30" width="40" /></a>
 </p>
 
