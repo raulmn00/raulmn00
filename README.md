@@ -7,7 +7,7 @@
 
 - 🔭 Eu estou trabalhando atualmente na minha própria [Pokedex](https://github.com/raulmn00/projeto-dois-pokedex)
 
-- 🌱 Atualmente estou aprendendo **Javascript**
+- 🌱 Atualmente estou aprendendo **Javascript/Java/ReactJS/Java Spring Boot**
 
 - 👨‍💻 Meus projetos estão aqui [https://raulmn00.github.io/Projeto-Um-Modulo-Dois-Portifolio/](https://raulmn00.github.io/Projeto-Um-Modulo-Dois-Portifolio/)
 
