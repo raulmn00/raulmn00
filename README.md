@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulmn00" alt="raulmn00" /></a> </p>
 
-- 🔭 Eu estou trabalhando atualmente na minha própria [Pokedex](https://github.com/raulmn00/projeto-dois-pokedex)
+- 🔭 Eu estou trabalhando atualmente como desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/italentsbr/mycompany/">iTalents</a>
 
 - 🌱 Atualmente estou aprendendo **Javascript/Java/ReactJS/Java Spring Boot**
 
