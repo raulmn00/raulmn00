@@ -9,8 +9,6 @@
 
 - 🌱 Atuo com **TypeScript, NodeJs, NestJs, NextJs, ReactJs e Docker**.
 
-- 👨‍💻 Meus projetos estão aqui [https://raulmn00.github.io/Projeto-Um-Modulo-Dois-Portifolio/](https://raulmn00.github.io/Projeto-Um-Modulo-Dois-Portifolio/)
-
 - 📫 Caso deseje me contatar **raul.mariaci@gmail.com**
 
 - ⚡ Curiosidade sobre mim **Meus cachorros se chamam Gilgerlan André Mariaci e Dantinho**
