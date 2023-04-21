@@ -7,13 +7,13 @@
 
 - 🔭 Eu estou trabalhando atualmente como desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/italentsbr/mycompany/">iTalents</a>
 
-- 🌱 Atualmente estou aprendendo **Javascript/Java/ReactJS/Java Spring Boot**
+- 🌱 Atuo com **TypeScript, NodeJs, NestJs, NextJs, ReactJs e Docker**.
 
 - 👨‍💻 Meus projetos estão aqui [https://raulmn00.github.io/Projeto-Um-Modulo-Dois-Portifolio/](https://raulmn00.github.io/Projeto-Um-Modulo-Dois-Portifolio/)
 
 - 📫 Caso deseje me contatar **raul.mariaci@gmail.com**
 
-- ⚡ Curiosidade sobre mim **Meu cachorro se chama Gilgerlan André Mariaci**
+- ⚡ Curiosidade sobre mim **Meus cachorros se chamam Gilgerlan André Mariaci e Dantinho**
 
 <h3 align="left">Vamos nos conectar:</h3>
 <p align="left">
